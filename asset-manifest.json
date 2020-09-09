@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.a2c0213d.chunk.css",
+    "main.js": "/Portfolio/static/js/main.06ea45e0.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.06ea45e0.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.3f57985b.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.3f57985b.js.map",
+    "static/js/2.92d5264c.chunk.js": "/Portfolio/static/js/2.92d5264c.chunk.js",
+    "static/js/2.92d5264c.chunk.js.map": "/Portfolio/static/js/2.92d5264c.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.2b25621fd58b87a283fecbe8032fd4e2.js": "/Portfolio/precache-manifest.2b25621fd58b87a283fecbe8032fd4e2.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.a2c0213d.chunk.css.map": "/Portfolio/static/css/main.a2c0213d.chunk.css.map",
+    "static/js/2.92d5264c.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.92d5264c.chunk.js.LICENSE.txt",
+    "static/media/CloStat.png": "/Portfolio/static/media/CloStat.5a4281e3.png",
+    "static/media/Main.css": "/Portfolio/static/media/Orbitron-VariableFont_wght.c641d3e9.ttf",
+    "static/media/Lobby_2.gif": "/Portfolio/static/media/Lobby_2.f70133e8.gif",
+    "static/media/Logo 3 slight white.svg": "/Portfolio/static/media/Logo 3 slight white.a0dfbfdb.svg",
+    "static/media/Markit.png": "/Portfolio/static/media/Markit.8d106436.png",
+    "static/media/Shoperone.png": "/Portfolio/static/media/Shoperone.8e709506.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f57985b.js",
+    "static/js/2.92d5264c.chunk.js",
+    "static/css/main.a2c0213d.chunk.css",
+    "static/js/main.06ea45e0.chunk.js"
+  ]
+}
