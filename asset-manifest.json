@@ -1,28 +1,32 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.a2c0213d.chunk.css",
-    "main.js": "/Portfolio/static/js/main.06ea45e0.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.06ea45e0.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.51b451c7.chunk.css",
+    "main.js": "/Portfolio/static/js/main.434975ee.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.434975ee.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.3f57985b.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.3f57985b.js.map",
-    "static/js/2.92d5264c.chunk.js": "/Portfolio/static/js/2.92d5264c.chunk.js",
-    "static/js/2.92d5264c.chunk.js.map": "/Portfolio/static/js/2.92d5264c.chunk.js.map",
+    "static/js/2.90af8bdc.chunk.js": "/Portfolio/static/js/2.90af8bdc.chunk.js",
+    "static/js/2.90af8bdc.chunk.js.map": "/Portfolio/static/js/2.90af8bdc.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.2b25621fd58b87a283fecbe8032fd4e2.js": "/Portfolio/precache-manifest.2b25621fd58b87a283fecbe8032fd4e2.js",
+    "precache-manifest.23735a6cf8a420205ca64782bdff3c0b.js": "/Portfolio/precache-manifest.23735a6cf8a420205ca64782bdff3c0b.js",
     "service-worker.js": "/Portfolio/service-worker.js",
-    "static/css/main.a2c0213d.chunk.css.map": "/Portfolio/static/css/main.a2c0213d.chunk.css.map",
-    "static/js/2.92d5264c.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.92d5264c.chunk.js.LICENSE.txt",
+    "static/css/main.51b451c7.chunk.css.map": "/Portfolio/static/css/main.51b451c7.chunk.css.map",
+    "static/js/2.90af8bdc.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.90af8bdc.chunk.js.LICENSE.txt",
+    "static/media/Main.css": "/Portfolio/static/media/PTT Logo Transparent.9644f998.png",
+    "static/media/CloStat Logo.svg": "/Portfolio/static/media/CloStat Logo.37e11dd9.svg",
     "static/media/CloStat.png": "/Portfolio/static/media/CloStat.5a4281e3.png",
-    "static/media/Main.css": "/Portfolio/static/media/Orbitron-VariableFont_wght.c641d3e9.ttf",
-    "static/media/Lobby_2.gif": "/Portfolio/static/media/Lobby_2.f70133e8.gif",
     "static/media/Logo 3 slight white.svg": "/Portfolio/static/media/Logo 3 slight white.a0dfbfdb.svg",
+    "static/media/MarkIt Logo.svg": "/Portfolio/static/media/MarkIt Logo.20604418.svg",
     "static/media/Markit.png": "/Portfolio/static/media/Markit.8d106436.png",
+    "static/media/PPT.png": "/Portfolio/static/media/PPT.d50afb11.png",
+    "static/media/PTT Logo.png": "/Portfolio/static/media/PTT Logo.deba3889.png",
+    "static/media/Shoperone Logo.svg": "/Portfolio/static/media/Shoperone Logo.6511a9f9.svg",
     "static/media/Shoperone.png": "/Portfolio/static/media/Shoperone.8e709506.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3f57985b.js",
-    "static/js/2.92d5264c.chunk.js",
-    "static/css/main.a2c0213d.chunk.css",
-    "static/js/main.06ea45e0.chunk.js"
+    "static/js/2.90af8bdc.chunk.js",
+    "static/css/main.51b451c7.chunk.css",
+    "static/js/main.434975ee.chunk.js"
   ]
 }
