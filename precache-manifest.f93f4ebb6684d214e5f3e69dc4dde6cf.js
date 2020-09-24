@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "883e8132858bd5d9328bee5c11113dcf",
+    "revision": "d90199285a02e31f80329d64ecb38152",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "8e97592134d58c647040",
-    "url": "/Portfolio/static/css/main.51b451c7.chunk.css"
+    "revision": "be0a0f0863e98ee304c0",
+    "url": "/Portfolio/static/css/main.2d542685.chunk.css"
   },
   {
-    "revision": "8669a62128291d61f6c3",
-    "url": "/Portfolio/static/js/2.90af8bdc.chunk.js"
+    "revision": "7cacbae3bf43a9d30e80",
+    "url": "/Portfolio/static/js/2.d368fb1c.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Portfolio/static/js/2.90af8bdc.chunk.js.LICENSE.txt"
+    "url": "/Portfolio/static/js/2.d368fb1c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e97592134d58c647040",
-    "url": "/Portfolio/static/js/main.434975ee.chunk.js"
+    "revision": "be0a0f0863e98ee304c0",
+    "url": "/Portfolio/static/js/main.375bc1b1.chunk.js"
   },
   {
     "revision": "82ead898ae4f08106fd3",
@@ -50,6 +50,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "37d92b586c56d516fdc1d61c31ae8e78",
     "url": "/Portfolio/static/media/FaxineSkyItalic.37d92b58.ttf"
+  },
+  {
+    "revision": "d0bc2d2eb46e64847034c7d175227c74",
+    "url": "/Portfolio/static/media/IMG_2338.d0bc2d2e.jpg"
+  },
+  {
+    "revision": "b8b991341b95e443800c9d37ee43478a",
+    "url": "/Portfolio/static/media/IMG_2338_no_background.b8b99134.png"
   },
   {
     "revision": "a0dfbfdb44fba7a000b36a9065e68d3a",
@@ -86,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "deba388907e8b75ef78b73447ae7f1cb",
     "url": "/Portfolio/static/media/PTT Logo.deba3889.png"
+  },
+  {
+    "revision": "5e688ce5a1f0659362c5bd3b27d10a2e",
+    "url": "/Portfolio/static/media/Samuel Nye Resume e.5e688ce5.pdf"
   },
   {
     "revision": "6511a9f953f321ea814cee65766006af",
